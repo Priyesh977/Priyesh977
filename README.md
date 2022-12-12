@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Priyesh977
-- 👀 I’m interested in ...
+- 👀 I’m interested in working on Web Development Projects
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on Python projects
+- 💞️ I’m looking to collaborate on Python and Web Development projects
 - 📫 How to reach me ---->        +919770658174     and      priyeshgaur98@gmail.com
 
 <!---
